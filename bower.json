@@ -1,0 +1,24 @@
+{
+  "name": "Sistra",
+  "homepage": "#",
+  "description": "Portal de Control de Transporte",
+  "main": "index.html",
+  "keywords": [
+    "Transporte",
+    "vehiculos"
+  ],
+  "authors": [
+    "Alfieri Morillo - alfierimorillo@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
